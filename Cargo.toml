@@ -1,0 +1,9 @@
+[package]
+name = "spongebab"
+version = "0.1.0"
+edition = "2018"
+authors=["ipchama"]
+
+[dependencies]
+clap = "2.33.3"
+pnet = "0.28.0"
