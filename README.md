@@ -28,7 +28,7 @@ A: Spongebab is an ARP sponge, but it's a really bad one.  ARP sponges are somet
 A: NO.  A real ARP sponge will help reduce unwanted network traffic.  Spongebab will magnify it for literally no good reason.
 
 ##### Q: Can you put this in a docker?
-A: No.
+A: No.  Well, _you_ can if _you_ want, but just don't.
 
 ##### Q: This code is just awful.
 A: Yes.
